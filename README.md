@@ -1,4 +1,4 @@
-# Car-Insurance-Campaign-Data-Science
+Car-Insurance-Campaign-Data-Science
 This project leverages data science strategies to enhance the outcomes of car insurance campaigns. By analyzing key metrics such as adset, reach, impressions, click-through rates, result and link clicks, this project aims to provide actionable insights for improving campaign performance.
 
 Key Features
